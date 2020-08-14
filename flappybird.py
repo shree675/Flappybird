@@ -1,4 +1,4 @@
-import pygame      #Avg FPS=109
+import pygame
 import random
 import time
 start1=0;stop1=0;stop2=0
@@ -22,6 +22,7 @@ font2=pygame.font.SysFont('comicsancms',50)
 sound1=pygame.mixer.Sound('sfx_point.wav')
 sound2=pygame.mixer.Sound('sfx_hit.wav')
 sound3=pygame.mixer.Sound('sfx_wing.wav')
+
 while not done:
     for i in pygame.event.get():
         if i.type==pygame.QUIT:
@@ -108,4 +109,5 @@ while not done:
         text2=font2.render('SCORE: {}'.format(score),True,(10,10,10))
         screen.blit(text2,(430,20))
         pygame.display.flip()
+        
 print('Your score: {}'.format(score))
