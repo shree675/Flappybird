@@ -6,7 +6,10 @@
 <p>This is a simple version of flappybird developed by me during my days of learning python. And this has been developed only using python.</p>
 
 ## Screenshots and Videos
-
+<br>
+<p>
+  <img src="https://github.com/shree675/Flappybird/tree/master/Screenshots/Screenshot (149).png" height="350" width="350">
+</p>
 
 ## Version
 2019
