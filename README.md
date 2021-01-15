@@ -9,7 +9,10 @@
 <br>
 <p>
   <img src="Screenshots/Screenshot (149).png" height="350" width="350">
+  <img src="Screenshots/Screenshot (147).png" height="350" width="350">
 </p>
+<br>
+Click on [Screenshots]() for more images.
 
 ## Version
 2019
