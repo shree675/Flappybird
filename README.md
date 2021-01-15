@@ -14,7 +14,7 @@
   <img src="Screenshots/Screenshot (147).png" height="350" width="350">
 </p>
 <br>
-Click on [Screenshots](https://github.com/shree675/Flappybird/tree/master/Screenshots) for more images.
+Click on [Screenshots](https://github.com/shree675/Flappybird/tree/master/Screenshots/) for more images.
 
 ## Version
 2019
