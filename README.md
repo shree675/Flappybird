@@ -1,5 +1,12 @@
 # flappybird
 
-Flappybird is a game in which the player controls a bird attempting to fly between columns of pipes without hitting them.
+## About
+<p>Flappybird is a game in which the player controls a bird attempting to fly between columns of pipes without hitting them. The rules are the same as the original Flappybird game.</p>
 
-This is a simple version of flappybird developed by me during my days of learning python. And this is developed using only python using the pygame module.
+<p>This is a simple version of flappybird developed by me during my days of learning python. And this has been developed only using python.</p>
+
+## Screenshots and Videos
+
+
+## Version
+2019
