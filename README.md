@@ -9,6 +9,8 @@
 <br>
 <p>
   <img src="Screenshots/Screenshot (149).png" height="350" width="350">
+</p>
+<p>
   <img src="Screenshots/Screenshot (147).png" height="350" width="350">
 </p>
 <br>
