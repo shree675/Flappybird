@@ -12,6 +12,7 @@ h=0;r=0;j=0;a=0;s=0;w=0
 score=0
 l=[0]
 v=[600]
+
 start1=time.time()
 img1=pygame.image.load('flappybird2.png')
 cloud1=pygame.image.load('cloud1.png')
@@ -32,6 +33,7 @@ while not done:
             done=True
             
     clock.tick(120)
+    
     screen.fill((255,255,255))
     screen.blit(cloud1,(-100,5))
     screen.blit(cloud1,(280,20))
