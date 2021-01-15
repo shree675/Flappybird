@@ -8,7 +8,7 @@
 ## Screenshots and Videos
 <br>
 <p>
-  <img src="https://github.com/shree675/Flappybird/tree/master/Screenshots/Screenshot (149).png" height="350" width="350">
+  <img src="Screenshots/Screenshot (149).png" height="350" width="350">
 </p>
 
 ## Version
