@@ -1,4 +1,4 @@
-# flappybird
+# Flappybird
 
 ## About
 <p>Flappybird is a game in which the player controls a bird attempting to fly between columns of pipes without hitting them. The rules are the same as the original Flappybird game.</p>
